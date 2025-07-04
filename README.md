@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Ángel David Valencia
 
-🎓 Técnico en la Universidad Autónoma  
-🎓 Tecnólogo en el [SENA](https://www.sena.edu.co) – Servicio Nacional de Aprendizaje  
+🎓 Técnico en programación de computadores en la Universidad Autónoma  
+🎓 Tecnólogo en análisis y desarrollo de software en el [SENA](https://www.sena.edu.co) – Servicio Nacional de Aprendizaje  
 💻 Apasionado por el desarrollo de software y las tecnologías web  
 🌎 Desde Manizales, Caldas – Colombia 🇨🇴
 
