@@ -26,6 +26,12 @@
 
 ---
 
+## Commits
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/t/AngelDaviid/SocialMediaSena)
+
+---
+
 ## 📌 Contacto & Formación
 
 [![SENA](https://img.shields.io/badge/Formado%20en-SENA-00A859?style=for-the-badge&logo=googleclassroom&logoColor=white)](https://www.sena.edu.co)
@@ -34,12 +40,4 @@
 
 ---
 
-## Commits
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/t/AngelDaviid/SocialMediaSena)
-
-
-## 🧠 Frase que me inspira
-
-> _"El aprendizaje no se logra por casualidad; debe buscarse con ardor y mantenerse con diligencia."_  
-> — Abigail Adams
