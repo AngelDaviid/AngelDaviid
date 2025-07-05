@@ -32,6 +32,17 @@
 
 ---
 
+### :zap: Actividad reciente
+
+<!---START_SECTION:activity->
+
+<!--END_SECTION:activity-->
+
+<!--RECENT_ACTIVITY:last_update-->
+|<!--END_SECTION:activity-->
+
+
+
 ## 📌 Contacto & Formación
 
 [![SENA](https://img.shields.io/badge/Formado%20en-SENA-00A859?style=for-the-badge&logo=googleclassroom&logoColor=white)](https://www.sena.edu.co)
