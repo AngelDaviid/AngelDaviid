@@ -36,10 +36,9 @@
 <!--RECENT_ACTIVITY:start-->
 1. 🔱 Forked [AngelDaviid/backend-nestjs](https://github.com/AngelDaviid/backend-nestjs) from [platzi/backend-nestjs](https://github.com/platzi/backend-nestjs)<br>
 2. 🤝 Became collaborator on [Anderc27/Django_proyecto_final](https://github.com/Anderc27/Django_proyecto_final)<br>
-3. 🤝 Became collaborator on [Anderc27/Proyecto_Final_Django](https://github.com/Anderc27/Proyecto_Final_Django)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, August 12th, 2025, 1:12:41 AM
+Last Updated: Tuesday, August 12th, 2025, 12:31:36 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📌 Contacto & Formación
