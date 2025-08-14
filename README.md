@@ -44,7 +44,7 @@ Last Updated: Thursday, August 14th, 2025, 1:14:30 AM
 
 [![SENA](https://img.shields.io/badge/Formado%20en-SENA-00A859?style=for-the-badge&logo=googleclassroom&logoColor=white)](https://www.sena.edu.co)
 [![Universidad Autónoma](https://img.shields.io/badge/Técnico-Universidad%20Autónoma-0066CC?style=for-the-badge&logo=academia&logoColor=white)](https://www.autonoma.edu.co)
-[![Gmail](https://img.shields.io/badge/Email-angerlvalenciav%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angerlvalencia@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-angerlvalencia%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angerlvalencia@gmail.com)
 
 ---
 
