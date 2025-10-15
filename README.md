@@ -34,14 +34,14 @@
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [AngelDaviid/Platzi-blog](https://github.com/AngelDaviid/Platzi-blog) from [degranda/Platzi-blog](https://github.com/degranda/Platzi-blog)<br>
-2. 🔱 Forked [AngelDaviid/cursos-sass](https://github.com/AngelDaviid/cursos-sass) from [platzi/cursos-sass](https://github.com/platzi/cursos-sass)<br>
-3. 🔱 Forked [AngelDaviid/batata-bit](https://github.com/AngelDaviid/batata-bit) from [degranda/batata-bit](https://github.com/degranda/batata-bit)<br>
-4. 🔱 Forked [AngelDaviid/ytmd](https://github.com/AngelDaviid/ytmd) from [ytmd-devs/ytmd](https://github.com/ytmd-devs/ytmd)<br>
-5. 🔱 Forked [AngelDaviid/Proyecto-Google-Clone](https://github.com/AngelDaviid/Proyecto-Google-Clone) from [degranda/Proyecto-Google-Clone](https://github.com/degranda/Proyecto-Google-Clone)<br>
+1. 🔱 Forked [AngelDaviid/Platzi-blog](https://github.com/AngelDaviid/Platzi-blog) from [AngelDaviid/Platzi-blog](https://github.com/AngelDaviid/Platzi-blog)<br>
+2. 🔱 Forked [AngelDaviid/cursos-sass](https://github.com/AngelDaviid/cursos-sass) from [AngelDaviid/cursos-sass](https://github.com/AngelDaviid/cursos-sass)<br>
+3. 🔱 Forked [AngelDaviid/batata-bit](https://github.com/AngelDaviid/batata-bit) from [AngelDaviid/batata-bit](https://github.com/AngelDaviid/batata-bit)<br>
+4. 🔱 Forked [AngelDaviid/ytmd](https://github.com/AngelDaviid/ytmd) from [AngelDaviid/ytmd](https://github.com/AngelDaviid/ytmd)<br>
+5. 🔱 Forked [AngelDaviid/Proyecto-Google-Clone](https://github.com/AngelDaviid/Proyecto-Google-Clone) from [AngelDaviid/Proyecto-Google-Clone](https://github.com/AngelDaviid/Proyecto-Google-Clone)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, October 14th, 2025, 1:08:47 PM
+Last Updated: Wednesday, October 15th, 2025, 1:07:47 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📌 Contacto & Formación
