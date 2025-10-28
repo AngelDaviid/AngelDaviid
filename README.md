@@ -34,14 +34,14 @@
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. 🤝 Became collaborator on [Anderc27/Proyecto_Django_16-09-2025](https://github.com/Anderc27/Proyecto_Django_16-09-2025)<br>
-2. 🔱 Forked [AngelDaviid/Platzi-blog](https://github.com/AngelDaviid/Platzi-blog) from [AngelDaviid/Platzi-blog](https://github.com/AngelDaviid/Platzi-blog)<br>
-3. 🔱 Forked [AngelDaviid/cursos-sass](https://github.com/AngelDaviid/cursos-sass) from [AngelDaviid/cursos-sass](https://github.com/AngelDaviid/cursos-sass)<br>
-4. 🔱 Forked [AngelDaviid/batata-bit](https://github.com/AngelDaviid/batata-bit) from [AngelDaviid/batata-bit](https://github.com/AngelDaviid/batata-bit)<br>
-5. 🔱 Forked [AngelDaviid/ytmd](https://github.com/AngelDaviid/ytmd) from [AngelDaviid/ytmd](https://github.com/AngelDaviid/ytmd)<br>
+1. ⬆️ Pushed undefined commit(s) to [AngelDaviid/SenaProyect](https://github.com/AngelDaviid/SenaProyect)<br>
+2. ⬆️ Pushed undefined commit(s) to [AngelDaviid/SenaProyect](https://github.com/AngelDaviid/SenaProyect)<br>
+3. ⬆️ Pushed undefined commit(s) to [AngelDaviid/SenaProyect](https://github.com/AngelDaviid/SenaProyect)<br>
+4. ⬆️ Pushed undefined commit(s) to [AngelDaviid/SenaProyect](https://github.com/AngelDaviid/SenaProyect)<br>
+5. 🤝 Became collaborator on [Anderc27/Proyecto_Django_16-09-2025](https://github.com/Anderc27/Proyecto_Django_16-09-2025)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, October 27th, 2025, 1:09:16 PM
+Last Updated: Tuesday, October 28th, 2025, 1:07:13 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📌 Contacto & Formación
