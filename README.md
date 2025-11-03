@@ -34,14 +34,14 @@
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [AngelDaviid/SenaProyect](https://github.com/AngelDaviid/SenaProyect)<br>
-2. ⬆️ Pushed undefined commit(s) to [AngelDaviid/SenaProyect](https://github.com/AngelDaviid/SenaProyect)<br>
-3. ⬆️ Pushed undefined commit(s) to [AngelDaviid/SenaProyect](https://github.com/AngelDaviid/SenaProyect)<br>
-4. ⬆️ Pushed undefined commit(s) to [AngelDaviid/SenaProyect](https://github.com/AngelDaviid/SenaProyect)<br>
-5. ⬆️ Pushed undefined commit(s) to [AngelDaviid/SenaProyect](https://github.com/AngelDaviid/SenaProyect)<br>
+1. ⬆️ Pushed undefined commit(s) to [AngelDaviid/ProyectoSena](https://github.com/AngelDaviid/ProyectoSena)<br>
+2. ⬆️ Pushed undefined commit(s) to [AngelDaviid/ProyectoSena](https://github.com/AngelDaviid/ProyectoSena)<br>
+3. ⬆️ Pushed undefined commit(s) to [AngelDaviid/ProyectoSena](https://github.com/AngelDaviid/ProyectoSena)<br>
+4. ⬆️ Pushed undefined commit(s) to [AngelDaviid/ProyectoSena](https://github.com/AngelDaviid/ProyectoSena)<br>
+5. ⬆️ Pushed undefined commit(s) to [AngelDaviid/ProyectoSena](https://github.com/AngelDaviid/ProyectoSena)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 2nd, 2025, 1:24:42 PM
+Last Updated: Monday, November 3rd, 2025, 1:13:25 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📌 Contacto & Formación
