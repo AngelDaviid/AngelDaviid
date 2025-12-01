@@ -38,10 +38,10 @@
 2. ⬆️ Pushed undefined commit(s) to [AngelDaviid/ProyectoSena](https://github.com/AngelDaviid/ProyectoSena)<br>
 3. ⬆️ Pushed undefined commit(s) to [AngelDaviid/ProyectoSena](https://github.com/AngelDaviid/ProyectoSena)<br>
 4. ⬆️ Pushed undefined commit(s) to [AngelDaviid/ProyectoSena](https://github.com/AngelDaviid/ProyectoSena)<br>
-5. 💪 Opened PR [#4](undefined) in [AngelDaviid/ProyectoSena](https://github.com/AngelDaviid/ProyectoSena)<br>
+5. 💪 Opened PR [#5](undefined) in [AngelDaviid/ProyectoSena](https://github.com/AngelDaviid/ProyectoSena)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 30th, 2025, 1:03:00 PM
+Last Updated: Monday, December 1st, 2025, 1:24:32 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📌 Contacto & Formación
