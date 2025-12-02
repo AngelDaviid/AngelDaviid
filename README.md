@@ -34,14 +34,14 @@
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [AngelDaviid/ProyectoSena](https://github.com/AngelDaviid/ProyectoSena)<br>
+1. 💪 Opened PR [#7](undefined) in [AngelDaviid/ProyectoSena](https://github.com/AngelDaviid/ProyectoSena)<br>
 2. ⬆️ Pushed undefined commit(s) to [AngelDaviid/ProyectoSena](https://github.com/AngelDaviid/ProyectoSena)<br>
-3. ⬆️ Pushed undefined commit(s) to [AngelDaviid/ProyectoSena](https://github.com/AngelDaviid/ProyectoSena)<br>
+3. 👍 Approved [#6](https://github.com/AngelDaviid/ProyectoSena/pull/6#pullrequestreview-3526128116) in [AngelDaviid/ProyectoSena](https://github.com/AngelDaviid/ProyectoSena)<br>
 4. ⬆️ Pushed undefined commit(s) to [AngelDaviid/ProyectoSena](https://github.com/AngelDaviid/ProyectoSena)<br>
 5. ⬆️ Pushed undefined commit(s) to [AngelDaviid/ProyectoSena](https://github.com/AngelDaviid/ProyectoSena)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, December 1st, 2025, 1:20:19 PM
+Last Updated: Tuesday, December 2nd, 2025, 1:13:06 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📌 Contacto & Formación
