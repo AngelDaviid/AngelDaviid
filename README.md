@@ -36,12 +36,9 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [AngelDaviid/ProyectoSena](https://github.com/AngelDaviid/ProyectoSena)<br>
 2. ⬆️ Pushed undefined commit(s) to [AngelDaviid/ProyectoSena](https://github.com/AngelDaviid/ProyectoSena)<br>
-3. ⬆️ Pushed undefined commit(s) to [AngelDaviid/ProyectoSena](https://github.com/AngelDaviid/ProyectoSena)<br>
-4. ⬆️ Pushed undefined commit(s) to [AngelDaviid/ProyectoSena](https://github.com/AngelDaviid/ProyectoSena)<br>
-5. ⬆️ Pushed undefined commit(s) to [AngelDaviid/ProyectoSena](https://github.com/AngelDaviid/ProyectoSena)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, January 7th, 2026, 1:17:49 AM
+Last Updated: Wednesday, January 7th, 2026, 12:35:42 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📌 Contacto & Formación
