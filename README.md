@@ -34,14 +34,14 @@
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [AngelDaviid/BumNationFrontend](https://github.com/AngelDaviid/BumNationFrontend)<br>
-2. ❌ Closed PR [#10](undefined) in [AngelDaviid/BumNationFrontend](https://github.com/AngelDaviid/BumNationFrontend)<br>
-3. 💪 Opened PR [#11](undefined) in [AngelDaviid/BumNationFrontend](https://github.com/AngelDaviid/BumNationFrontend)<br>
-4. 💪 Opened PR [#10](undefined) in [AngelDaviid/BumNationFrontend](https://github.com/AngelDaviid/BumNationFrontend)<br>
-5. ⬆️ Pushed undefined commit(s) to [AngelDaviid/BumNationFrontend](https://github.com/AngelDaviid/BumNationFrontend)<br>
+1. ⬆️ Pushed undefined commit(s) to [AngelDaviid/BumNationPage](https://github.com/AngelDaviid/BumNationPage)<br>
+2. ⬆️ Pushed undefined commit(s) to [AngelDaviid/BumNationFrontend](https://github.com/AngelDaviid/BumNationFrontend)<br>
+3. ⬆️ Pushed undefined commit(s) to [AngelDaviid/BumNationFrontend](https://github.com/AngelDaviid/BumNationFrontend)<br>
+4. ⬆️ Pushed undefined commit(s) to [AngelDaviid/BumNationFrontend](https://github.com/AngelDaviid/BumNationFrontend)<br>
+5. 💪 Opened PR [#12](undefined) in [AngelDaviid/BumNationFrontend](https://github.com/AngelDaviid/BumNationFrontend)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, October 3rd, 2026, 3:34:51 PM
+Last Updated: Sunday, October 4th, 2026, 3:52:06 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📌 Contacto & Formación
